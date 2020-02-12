@@ -1,0 +1,56 @@
+In Java we have two types of Exceptions like Compiletime Exceptions and Runtime Exceptions
+ 
+  Compiletile Error:-
+  ================
+  
+    Here we have print statement
+        
+        system.out.println(); //It will throw an exception. Here actually here 'S' is Capital letter
+    
+        This errors are also known as Syntatical errors
+        
+   Runtime Error:-
+   ================   
+   
+        Runtime exceptions are also called as Exceptions
+        
+      Two types of Exceptions
+        1. Checked    Exceptions
+        2. UnChecked  Exceptions   
+        
+        
+    Throws Keyword:-
+    ==============
+    1. Declaration an Exception
+    2. Throw an exception to caller of that code
+    3. Can throw only checked exceptions
+    4. Declare at method level
+    5. Need to define exception classes
+    6. Can use multiple classes seperated by comma 
+    
+    Throw Keyword:-
+    ==============
+    1. To manually throw an Exception
+    2. Need to place in body of the method
+    3. Need to pass object of Exception class
+    4. Only one exception throw at runtime
+    
+    
+     Difference between Throws and Throw?
+     
+               Throws                                                Throw
+       1. Declare An Exception                           1. Manually throw an Exception
+       2. In Method Level                                2. Inside the Method Methody
+       3. Declare multiple exceptions                    3. Only throw one exception
+       4. Exception class name                           4. Pass onject of excetion class
+    
+    
+    Finally Keyword:-
+    ===============
+     When we will use Finally keyword?
+     
+         If you are handlig checked exceptions, we don't use Finally 
+         If you are handling unchecked exceptions, we will use Finally
+     
+     
+        

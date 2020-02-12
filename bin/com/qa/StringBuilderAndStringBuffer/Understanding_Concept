@@ -1,0 +1,11 @@
+D/w Between StringBuffer and StringBuilder
+  
+    Both StringBuffer and StringBuilder are classes in Java
+    
+    StringBuilder is exactly same as StringBuffer (including  Methods and Constructor)
+    
+             StringBuffer                                       StringBuilder
+  1. In StringBuffer every mthod is Synchronized       1. In StringBuilder every mthod is Non-Synchronized
+  2. Thread-Safe                                       2. Thread-Not Safe
+  3. Performane is low                                 3. Performane is high
+  4. Introduced in 1.0 version                         4. Introduced in 1.5 version

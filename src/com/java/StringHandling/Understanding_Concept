@@ -1,0 +1,11 @@
+STRING HANDLING IN JAVA
+=======================
+ String is a special type of a class, we can create a Object for String Class
+ 
+ 
+ what is difference between == and equals?
+ 
+    -> We are going to use  '==' we will compare variable values,
+       Means in integer and float and char we can compare variables
+       
+    -> In String we don't compare variables, we can compare only String Objects

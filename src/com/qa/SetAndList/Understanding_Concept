@@ -1,0 +1,8 @@
+Difference between List and Set
+
+       Both List and Set are interfaces in java collections
+       
+                List                                Set
+      1. Duplicates are Allowed       1. Duplicates are not allowed
+      2. Insertion order preserved    2. Insertion order not preserved
+       

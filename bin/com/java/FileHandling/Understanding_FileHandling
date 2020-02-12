@@ -1,0 +1,26 @@
+ File Handling in Java
+ =====================
+  
+   Read Data From Text File we will use the Following Classes
+    
+      ->  Using FileReader
+      ->  Using BufferedReader
+      
+   Write Data To  Text File we will use we will use the Following Classes
+   
+     -> Using FileWriter
+     -> Using BufferedWriter
+     
+     
+     
+     What is the Difference b/w FileReader and BufferedReader?
+     
+      ->In FileReader we can read the Data From Character by Character, It will read data in Integer Format
+      ->In BufferedReader we can read the Data From Line By Line,It will read data in String Format
+       
+    What is the Difference b/w FileWriter and BuffeWriter?
+    
+    -> In FileWriter the data is Override,
+    -> Whenever we will executing the program it will print data in same single line
+    -> In FileWriter whenever we will save the data, it's taking one character at a time and saving to the file 
+    -> Suppose we have big file, it will takes lot of time to save the file, to overcome this problem we will use BuffredWriter

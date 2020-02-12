@@ -1,0 +1,2 @@
+In Continue will skip the current iteration
+in Break, will break the loop, it will not allow for any statement to be executed

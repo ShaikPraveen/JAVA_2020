@@ -1,0 +1,15 @@
+What is Type Casting?
+
+   Type Casting Means:-
+    
+    I have some data which is stored in one data type variable, 
+              i want to take it to the another data type variable
+              
+     There are two types of Type Casting?
+        1. Implicit Type Casting:
+             
+                  Means Smaller or same size data type value is transferred to Bigger or Same size data type
+            
+        2. Explicit Type Casting
+        
+               From bigger data type to smaller data type

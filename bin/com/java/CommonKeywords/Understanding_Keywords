@@ -1,0 +1,36 @@
+COMMON KEYWORDS IN JAVA
+ 
+      THIS, STATIC, FINAL and SUPER
+      
+   THIS :-
+   
+        1. We will use this keyword in differentiate between Local variabla and Global Variable
+        2. Whenever we are having Local and Global variable having same name, 
+           then we need to differentiate between using this keyword
+        3. We can call same class memeber
+        
+   
+   STATIC :-
+      
+       1. Call class members without creating an Object
+       2. Share data between Multiple Objects
+       3. Static member can access only other static member
+       4. Static block
+       
+   
+   FINAL :-
+     
+       1. To Create Constant,we can not change the value
+       2. Methods can not be Override
+       3. The Class can not be Inherit
+ 
+   
+   SUPER :-
+   
+       1. With the help of super keyword, we can access only parent class variable
+       2. We can call parent class method, in case of overriding
+       3. We can call parent class constructor explicitly
+       
+       
+       
+       

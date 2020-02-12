@@ -1,0 +1,9 @@
+Difference between ArrayList and LinkedList?
+
+            ArrayList                                       LinkedList
+ 1.Arraylist is the best choice                 1.LinkedList is the best choice 
+   if our frequesnt operation is retrieval        if our frequesnt operation is insertion or deletion
+   
+ 2. Data Structure for Arraylist is growable    2. Data structure for Linked List is Double Linked List
+    Array
+ 3. Arraylist implements RandomAccess Interface 3. Linked List doesn't implements RandomAccess Interface

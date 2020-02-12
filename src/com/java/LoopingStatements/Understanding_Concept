@@ -1,0 +1,29 @@
+LOOPING STATEMENTS ARE
+======================
+1. FOR LOOP
+2. WHILE LOOP
+3. DO WHILE LOOP
+4. FOR EACH LOOP
+
+    FOR LOOP
+    ========
+     When we will go for For Loop?
+        
+         -> If you are confirm numbers of times you want to run loop
+         -> If Increment/Decrement is constant use this for loop
+         
+     WHILE LOOP
+    ============
+     When we will go for While Loop?
+     
+       -> Not Confirm number of times loop is going to run
+       -> Increment/Decrement is not constant
+       
+    DO WHILE LOOP
+    ============
+      DO WHILE LOOP also called Exit controlled loop
+      
+     What is difference between While loop and Do while loop?
+     
+       -> In while loop first we will check the condition,then after we will the loop
+       -> In Do while loop first we will run the loop,then after we will check the condition

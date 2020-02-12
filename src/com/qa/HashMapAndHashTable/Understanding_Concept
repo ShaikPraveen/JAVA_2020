@@ -1,0 +1,7 @@
+Difference between HashMap and HashTable
+
+                HashMap                                               HashTable
+    1. Hashmap is not synchronized not thread safe         1. HashTable is synchronized and thread safe
+    2. HashMap allows atmost one null key                  2. HashTable doesn't allow null values
+       and number of null values
+    3. Performace is faster than HashTable
