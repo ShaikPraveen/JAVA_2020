@@ -15,7 +15,7 @@ public class TC01_Handling_Private_AccessModifier
 	
 	  private void hello()
 	  {
-		  System.out.println("THIS IS MY HELLO METHOD FOR PRACTICING PRIVATE METHOD");
+		 System.out.println("THIS IS MY HELLO METHOD FOR PRACTICING PRIVATE METHOD");
 	  }
 	  
 	  

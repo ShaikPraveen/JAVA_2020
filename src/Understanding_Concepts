@@ -1,0 +1,44 @@
+Access Modifiers
+================
+  There are Four types of access modifiers in java
+    1.public 2.private 3.default and 4. protected
+
+ 1.public  : public modifer can be accessed through out(or)anyware of the object, 
+             just by creating an object of the class.
+ 2.private : private members can be accessed within the class only, 
+             outside of the class we can access private methods or variables.
+      Note : How we can access private variables or methods?
+      Ans:   By using "this" keyword
+ 3.default : If you don't specify any modifier, it will takes as default modifier.
+             The scope of default modifier is within the package only.
+ 4.proteced : protected members can be accessed within the package (or) 
+              if you want to access outside of the class(another package) should be the child class,
+              then we have to inherit by using extends keyword.
+      
+ Access Modifiers in Class Level:
+ ================================
+  Q:We we use above Access modifires in class level as well?
+  A: No
+        ******Note: Please practice well above access modifiers******
+===========================================
+Methods/Functions
+====================
+  There are there types of Methods in Java
+    1. Functions without arguments and Return type (This method not taking any input and not returning any value)
+    2. Functions with arguments and no Return type
+    3. Functions with arguments and Return type
+    
+    Ex: (20 + 50) - 30
+        (1 + 100) * (10-5)
+ 
+ Constructor
+ ==========
+    => Constructor can be defined as a special type of a method
+    => Constructor must be same as it's class name
+    => Constructor never return a value
+    => Constructor will automatically called while creating an object of the class
+    
+        
+  
+  
+      
